@@ -12,24 +12,6 @@ using System.IO;
 using Newtonsoft.Json.Linq;
 using System.Text.RegularExpressions;
 
-/*
- * TODOS:
- * Make Data Persistant: DONE
- * As God is created add to List of gods: DONE
- * If God exists in List then don't create new god
- * 
- * As Player is created add to List of players DONE
- * If Player exists in List then don't search/create new player DONE
- * 
- * Deconstructors for Gods and Player to DONE: NOTE: completed without deconstructor
- * save from List to SQLite database DONE
- * 
- * 
- * Link Player to User
- * 
- */
-
-
 namespace SmiteBot
 {
     public class SmiteDev
