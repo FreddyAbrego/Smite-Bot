@@ -13,7 +13,6 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Timers;
 
-
 namespace SmiteBot
 {
     public class Program
